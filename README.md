@@ -8,7 +8,7 @@ A batch script that launches Call of Duty: Modern Warfare (2019) through the Bli
 
 It might not be necessary for you. A lot of PC users (especially people running an Intel i5 CPU) have been experiencing fps drops in the game lobby and general micro stutters in-game. Changing the CPU priority seems to fix these issues for a lot of people. Furthermore, changing the priority will free more resources to background processes, making alt-tabbing faster and smoother. 
 
-The game launches in 'high' priority mode, so the user is left with a choice between continuously changing it manually or install a dedicated process priority optimizer like Process Lasso and make a rule for the Modern Warfare executable. Installing an application like Process Lasso is associated with minor overhead (resource allocation) and if you don't buy a license you are regularly met with a prompt asking to buy the full version, which can be a minor annoyance to some.
+The game launches in 'high' priority mode, so the user is left with a choice between continuously changing it manually or install a dedicated process priority optimizer like Process Lasso and make a rule for the Modern Warfare executable. Installing an application like Process Lasso is associated with minor overhead (resource allocation) and if you don't own a license you are regularly met with a prompt requesting to buy the full version, which can be a minor annoyance to some.
 
 This script aims to offer an automated solution with no overhead and no annoying prompts.
 
