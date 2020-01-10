@@ -20,7 +20,7 @@ No, it does not. The script simply waits for the appropriate processes to appear
 
 ### Download or create a .bat file
 
-Simply download the .bat file [from here](https://google.com/) and extract it to a location of your choosing
+Simply download the .bat file from [here](https://google.com/) and extract it to a location of your choosing
 
 OR 
 
