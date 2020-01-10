@@ -24,11 +24,11 @@ Simply download the .bat file [from here](https://google.com/) and extract it to
 
 OR 
 
-create a .bat file of your own and paste [this source code](https://google.com/) into it using notepad or your preferred text editor.
+create a .bat file of your own, edit it with notepad or your preferred text editor, paste [the source code](https://google.com/) the source code and save it.
 
 ### Editing the .bat file
 
-If your Blizzard Battle.net client is located at a different path than the default installation path (C:/Program Files (x86)/Battle.net) you need to edit line 3 in the .bat file. As an example you would change the following line:
+If your Blizzard Battle.net client is located at a different path than the default installation path (C:/Program Files (x86)/Battle.net) you need to edit line 3 in the .bat file. As an example you would need to change the following line like so:
 
 ```
 set battlenet_path=C:/Program Files (x86)/Battle.net
