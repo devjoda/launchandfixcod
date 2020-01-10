@@ -44,5 +44,5 @@ Note: It does not matter where your Call of Duty: Modern Warfare game files are 
 
 ## Support
 
-If you liked this script and you feel like it, you can buy me a cup of coffee [here](buymeacoff.ee/atyourservicesire) :) 
+If you liked this script and you feel like it, you can buy me a cup of coffee [here](https://buymeacoff.ee/atyourservicesire) :) 
 
