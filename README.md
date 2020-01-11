@@ -30,11 +30,11 @@ No, it does not. The script simply waits for the appropriate processes to appear
 
 ### Download or create a .bat file
 
-Simply download the .bat file from [here](https://google.com/) and extract it to a location of your choosing
+Simply download the [latest release](https://github.com/atyourservicesire/launchandfixcod/files/4048762/launchandfixcod-v0.1.0.zip) and extract the .bat file to a location of your choosing
 
 OR 
 
-create a .bat file of your own, edit it with notepad or your preferred text editor, paste [the source code](https://google.com/) the source code and save it.
+create a .bat file of your own, edit it with notepad or your preferred text editor, paste [the source code](https://github.com/atyourservicesire/launchandfixcod/blob/master/launchandfixcod.bat) the source code and save it.
 
 ### Editing the .bat file
 
