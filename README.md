@@ -34,7 +34,7 @@ Simply download the [latest release](https://github.com/atyourservicesire/launch
 
 OR 
 
-create a .bat file of your own, edit it with notepad or your preferred text editor, paste [the source code](https://github.com/atyourservicesire/launchandfixcod/blob/master/launchandfixcod.bat) the source code and save it.
+create a .bat file of your own, edit it with notepad or your preferred text editor, paste [the source code](https://github.com/atyourservicesire/launchandfixcod/blob/master/launchandfixcod.bat) and save it.
 
 ### Editing the .bat file
 
