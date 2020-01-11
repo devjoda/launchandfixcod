@@ -8,7 +8,7 @@ A batch script that launches Call of Duty: Modern Warfare (2019) through the Bli
 
 ### Demo
 
-Brief demo showing the first launching process:
+Brief demo showing the launching process:
 
 ![Picture](https://github.com/atyourservicesire/launchandfixcod/blob/master/assets/demo.gif)
 
