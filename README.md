@@ -12,7 +12,7 @@ Brief demo showing the launching process:
 
 ![Picture](https://github.com/atyourservicesire/launchandfixcod/blob/master/assets/demo.gif)
 
-Captured using the awesome ScreenToGif (https://github.com/NickeManarin/ScreenToGif)
+Captured using the awesome [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 
 ### Why is it necessary to change the CPU priority of the game?
 
