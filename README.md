@@ -6,7 +6,7 @@
 
 A batch script that launches Call of Duty: Modern Warfare (2019) through the Blizzard Battle.net client, changes the default CPU priority from 'high' to 'normal' and self terminates.
 
-### Demo
+### Demonstration
 
 Brief demo showing the launching process:
 
