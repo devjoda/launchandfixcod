@@ -50,7 +50,7 @@ to
 set battlenet_path=E:/My Applications/Battle.net
 ```
 
-Note: It does not matter where your Call of Duty: Modern Warfare game files are located.
+Note: It does not matter where your Call of Duty: Modern Warfare game files are located, since the script launches the game through the Battle.net Launcher executable.
 
 ## Support
 
