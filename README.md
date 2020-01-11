@@ -4,6 +4,12 @@
 
 A batch script that launches Call of Duty: Modern Warfare (2019) through the Blizzard Battle.net client, changes the default CPU priority from 'high' to 'normal' and self terminates.
 
+### Demo
+
+![Picture](https://github.com/atyourservicesire/launchandfixcod/blob/master/assets/demo.gif)
+
+Captured using ScreenToGif (https://github.com/NickeManarin/ScreenToGif)
+
 ### Why is it necessary to change the CPU priority of the game?
 
 It might not be necessary for you. A lot of PC users (especially people running an Intel i5 CPU) have been experiencing fps drops in the game lobby and general micro stutters in-game. Changing the CPU priority seems to fix these issues for a lot of people. Furthermore, changing the priority will free more resources to background processes, making alt-tabbing faster and smoother. 
