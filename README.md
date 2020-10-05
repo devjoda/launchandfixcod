@@ -54,11 +54,11 @@ Note: It does not matter where your Call of Duty: Modern Warfare game files are 
 
 ### Language support
 
-**English (US) is the only supported language.**
+English (US) is the **only supported language**.
 
-It's recommended to set your language to English (US) in the Battle.net client under the general tab.
+It's recommended to set your language to English (US) in the Battle.net client under the general tab, unless you add support to your local language.
 
-If the Battle.net language is set to German for instance, the Battle.net login process name will appear as "In Battle.net einloggen" in Windows. The script however is looking for a process named "Battle.net Login.
+If the Battle.net language is set to German, the Battle.net login process name will appear as "In Battle.net einloggen" in Windows. The script however is looking for a process named "Battle.net Login.
 
 Adding support to your local language is easy: 
 1) Right click the .bat and select edit in NotePad
