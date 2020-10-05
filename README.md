@@ -54,19 +54,18 @@ Note: It does not matter where your Call of Duty: Modern Warfare game files are 
 
 ### Language support
 
-English is the only supported language, and it's recommended to set your language to English (US) in the Battle.net client under the general tab.
+**English (US) is the only supported language.**
 
-If the Battle.net language is set to German for instance, the Battle.net login process name will appear as "In Battle.net einloggen" in Windows, while the script is looking for a process named "Battle.net Login".
+It's recommended to set your language to English (US) in the Battle.net client under the general tab.
 
-However, adding support to your local language is easy: 
+If the Battle.net language is set to German for instance, the Battle.net login process name will appear as "In Battle.net einloggen" in Windows. The script however is looking for a process named "Battle.net Login.
+
+Adding support to your local language is easy: 
 1) Right click the .bat and select edit in NotePad
 2) Press CTRL+H to bring forth the replace window
 3) Input the following in the 'Find what' form: Blizzard Battle.net Login
-4) Input the translated process name in the 'Replace with' form (i.e. "In Battle.net einloggen")
+4) Input the translated process name (can easily be located in task manager) in the 'Replace with' form: In Battle.net einloggen
 5) Replace line 22, 32, 84
-6) Save 
-
-The following should reflect the changes:
 
 Line 22:
 ```
@@ -82,3 +81,5 @@ Line 84:
 ```
 call :loop_until_process_not_exist "In Battle.net einloggen" "Battle.net login prompt" 1
 ```
+
+6) Save 
