@@ -2,7 +2,7 @@
 
 04-05-2021
 
-Decided to archive this project, as it appears the game client no longer forces high CPU priority. The recent update to the b.net client broke the scripts way of checking for succesful login (window title checking), but I uploaded [a new and final version](https://github.com/nooberfrombaldursgate/launchandfixcod/blob/master/modernwarfare2019-new.bat), that cuts out the loging prompt check and just keeps attempting to launch the game until it detects the modernwarfare.exe process in case anyone still find any use for this script.
+Decided to archive this project, as it appears the game client no longer forces high CPU priority. The recent update to the b.net client broke the script's way of checking for succesful user login (window title checking), but I quickly rewrote the script and uploaded [a new and final version](https://github.com/nooberfrombaldursgate/launchandfixcod/blob/master/modernwarfare2019-new.bat), that cuts out the check and just keeps attempting to launch the game until it detects the modernwarfare.exe process (in case anyone still find any use for this script).
 
 
 ## About
