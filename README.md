@@ -1,5 +1,10 @@
 # launchandfixcod.bat
 
+04-05-2021
+
+Decided to archive this project, as it appears the game client no longer forces high CPU priority. The recent update to the b.net client broke the scripts way of checking for succesful login (window title checking), but I uploaded [a new and final version](https://github.com/nooberfrombaldursgate/launchandfixcod/blob/master/modernwarfare2019-new.bat) of the script.
+
+
 ## About
 
 ### Description
